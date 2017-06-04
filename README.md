@@ -1,1 +1,3 @@
-# neural_networks_in_business
+# Exploiting a simple Neural Network to make Predictions for a Business  
+## Author: Nick Koutroumpinis  
+In this project, we'll build a neural network from scratch using only numpy and use it to predict daily bike rental ridership. The neural network is the simplest model with one hidden layer, although our predictions are pretty high....  
